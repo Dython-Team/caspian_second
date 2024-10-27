@@ -1,7 +1,9 @@
 # caspian_second
- open analysis.ipynb
- 
- create a folder named 'data' in main root like this:
+open analysis.ipynb
+
+create a virtual enviroment and install dependency in requirements.txt
+
+create a folder named 'data' in main root like this:
 
  ___caspican_env
 |
