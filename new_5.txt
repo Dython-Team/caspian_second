@@ -1,0 +1,53 @@
+abadan	abadan
+alborz	alborz
+arak	arak
+ardebil	ardebil
+azar gharbi	azar gharbi
+babol	babol
+bam	bam
+behbahan	behbahan
+boshehr	boshehr
+charmahal	charmahal
+dezful	dezful
+esfarayen	esfarayen
+fars	fars
+fasad	fasad
+gilan	gilan
+golestan	golestan
+hamedan	hamedan
+hormozgan	hormozgan
+ilam	ilam
+iran	iran
+iranshahr	iranshahr
+isfahan	isfahan
+jahrom	jahrom
+kashan	kashan
+kerman	kerman
+kerman.jirof	kerman.jiroft
+kermanshah	kermanshah
+khorasan jon	khorasan jonobi
+khorasan raz	khorasan razavi
+khorasan sho	khorasan shomali
+khozestan	khozestan
+kohkiloyeh	kohkiloyeh
+kurdestan	kurdestan
+larestan	larestan
+lorestan	lorestan
+mazandaran	mazandaran
+neishabor	neishabor
+qazvin	qazvin
+rafsanjan	rafsanjan
+sabzevar	sabzevar
+saveh	saveh
+semnan	semnan
+shahidbehesh	shahidbeheshti
+shahrood	shahrood
+shoshtar	shoshtar
+sistan	sistan
+tabriz	tabriz
+tehran	tehran
+torbat heida	torbat heidariyeh
+torbat jam	torbat jam
+yazd	yazd
+zabol	zabol
+zanjan	zanjan
