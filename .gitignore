@@ -3,6 +3,18 @@ CASPIAN_env/
 charts/
 base_chart/
 intersection/
+compare_WHO_chart/
+compare_CDC_chart/
+final_data/
+final_chart/
+mlflow.db
+mlruns/
 table-caspian2/
-chart-caspian2/
-chart-caspians/
+casp5_girl_processed.csv
+casp5_boy_processed.csv
+compare_CDC_chart-v2.zip
+compare_WHO_chart-v2.zip
+compare_WHO_chart-v1.zip
+school_final- tashih shodeh -4.dta
+last-caspian-v-9.dta
+compare_CDC_chart.zip
